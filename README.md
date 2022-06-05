@@ -1,4 +1,4 @@
-# Repositório do desafio do projeto sobre Git/Githab da DIO
+#  Desafio do projeto sobre Git/Githab da DIO
 Repositório criado para o desafio do projeto.
 
 ## links úteis
